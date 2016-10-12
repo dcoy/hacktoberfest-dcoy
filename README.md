@@ -16,3 +16,4 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Roger Creasy (@rogercreasy)
 * Manuel Medina (@manuelmdn)
 * Sam Smith (@yoyosamo)
+* Arthur GUIOT (@arguiot)
