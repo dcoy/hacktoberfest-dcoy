@@ -9,4 +9,3 @@ sleep 1
 read aww
 
 echo " $aww, Really!?" 
-echo "$aww" >> Crybaby.txt
