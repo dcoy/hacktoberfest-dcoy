@@ -19,4 +19,8 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Daniel D (@delneet)
 * Perdana Adhitama (@kovloq)
 * David Perez (@kungfuguapo)
+<<<<<<< HEAD
 * Muriz Serifovic (@Murgio)
+=======
+* Evan Burkey (@evanburkey)
+>>>>>>> obsidianspork/master
