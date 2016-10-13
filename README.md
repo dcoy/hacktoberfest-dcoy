@@ -20,3 +20,4 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Perdana Adhitama (@kovloq)
 * David Perez (@kungfuguapo)
 * Evan Burkey (@evanburkey)
+* Muriz Serifovic (@Murgio)
