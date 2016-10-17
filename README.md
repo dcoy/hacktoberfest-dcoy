@@ -23,3 +23,4 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Muriz Serifovic (@Murgio)
 * Anubha Kushwaha (@anubhakushwaha)
 * Abhijit Ranalkar(@asr21)
+* Rohit Gupta(@guptarohit)
