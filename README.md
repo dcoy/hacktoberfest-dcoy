@@ -26,3 +26,4 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Rohit Gupta(@guptarohit)
 * Xing Wang (@xingwang)
 * Steven Suwatanapongched(@sunpech)
+* Peter (@magicp)
