@@ -1,5 +1,5 @@
 # hacktoberfest-dcoy
-A repo for some hacktoberfest fun! Here's the link for Hacktoberfest information: [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/) and you can check your Hacktoberfest status from [here .](https://hacktoberfestchecker.herokuapp.co)
+A repo for some hacktoberfest fun! Here's the link for Hacktoberfest information: [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/) and you can check your Hacktoberfest status from [here .](https://hacktoberfestchecker.herokuapp.com)
 
 If you would like to contribute, please add a "Hello world" file in the language of your choice to this repo by creating a branch with your language choice and username.  Here's an example: `git checkout -b ruby-obsidianspork`.  Finally, add your name to the list below with your @ GitHub username!
 
@@ -24,4 +24,5 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Anubha Kushwaha (@anubhakushwaha)
 * Abhijit Ranalkar(@asr21)
 * Rohit Gupta(@guptarohit)
+* Xing Wang (@xingwang)
 * Steven Suwatanapongched(@sunpech)
