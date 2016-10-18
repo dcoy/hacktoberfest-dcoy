@@ -24,3 +24,4 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Anubha Kushwaha (@anubhakushwaha)
 * Abhijit Ranalkar(@asr21)
 * Rohit Gupta(@guptarohit)
+* Leon Mak(@leonmak)
