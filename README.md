@@ -28,6 +28,7 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Xing Wang (@xingwang)
 * Steven Suwatanapongched(@sunpech)
 * Peter (@magicp)
+* Dipen Ved (@vedipen)
 * Athitya Kumar (@athityakumar)
 * Huy Nguyen (@huyrua291996)
 * Pratyush Mohapatra (@ativerc)
