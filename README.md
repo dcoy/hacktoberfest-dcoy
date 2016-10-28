@@ -7,6 +7,7 @@ If you would like to contribute, please add a "Hello world" file in the language
 
 ### List of Contributors
 
+* Geza Fischer (@gezafisch)
 * David Coy (@obsidianspork)
 * Jacob Meline (@jmeline)
 * Bibek Khadka (@roringbbk)
@@ -27,3 +28,14 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Xing Wang (@xingwang)
 * Steven Suwatanapongched(@sunpech)
 * Peter (@magicp)
+* Dipen Ved (@vedipen)
+* Athitya Kumar (@athityakumar)
+* Huy Nguyen (@huyrua291996)
+* Pratyush Mohapatra (@ativerc)
+* Sameer Killamsetty (@sameer2800)
+* Gabriel Ecker (@gabrielecker)
+* Vitalii Leshchenko (@vitaliaventel)
+* Mahendra (@m6102)
+* Coment (@comentarinformal)
+* Borja Giraldez (@giraldez122)
+* Alejandro Charte (@acharluk)

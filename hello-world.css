@@ -1,0 +1,2 @@
+*::before   { content: "Hello" }
+*::after    { content: " World" }
