@@ -41,3 +41,4 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Borja Giraldez (@giraldez122)
 * Alejandro Charte (@acharluk)
 * Daniel Perez (@djdany01)
+* Yogesh Singh (@singhyogesh252)
