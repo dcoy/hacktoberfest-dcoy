@@ -1,1 +1,1 @@
-print 'Hacktoberfest 2016'
+print 'Hacktoberfest 2k16'
