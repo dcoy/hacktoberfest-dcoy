@@ -16,7 +16,7 @@ static int __init helloworld_chaos_init(void)
 	return 0;
 }
 
-static void __exit helloworld_chaos_exit(void);
+static void __exit helloworld_chaos_exit(void)
 {
 	printk(KERN_INFO, "Chaos: Bye!\n");
 }
