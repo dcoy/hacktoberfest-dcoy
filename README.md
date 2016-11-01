@@ -28,6 +28,7 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Abhijit Ranalkar(@asr21)
 * Rohit Gupta(@guptarohit)
 * Xing Wang (@xingwang)
+* Chaos Shen (@chaosdefinition)
 * Steven Suwatanapongched(@sunpech)
 * Peter (@magicp)
 * Dipen Ved (@vedipen)
