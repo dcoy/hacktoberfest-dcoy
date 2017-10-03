@@ -47,3 +47,4 @@ If you would like to contribute, please add a "Hello world" file in the language
 * Nacho López (@ne3l)
 * cl1ent (@cl1ent)
 * Wilder Pereira (@WilderPereira)
+* eosti (@eosti)
