@@ -48,3 +48,4 @@ If you would like to contribute, please add a "Hello world" file in the language
 * cl1ent (@cl1ent)
 * Wilder Pereira (@WilderPereira)
 * eosti (@eosti)
+* Vinicius Luiz (@viniciuslcpereira97)
