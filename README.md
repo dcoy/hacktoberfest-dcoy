@@ -6,7 +6,7 @@ If you would like to contribute, please add a "Hello world" file in the language
 #### NOTE: if there is already a file with your language of choice, appead your filename with `-username` and this will prevent any merge conflicts.
 
 ### List of Contributors
-
+* Tom Davis (@Kat35601)
 * I. Gracia (@igcigc)
 * Geza Fischer (@gezafisch)
 * Justin Eldracher (@justineldracher)
