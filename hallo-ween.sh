@@ -1,0 +1,32 @@
+#!/bin/bash
+
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
+echo "Hello, Halo, Hallo, Hallows, Halloween";
