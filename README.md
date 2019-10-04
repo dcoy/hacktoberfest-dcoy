@@ -17,6 +17,7 @@ If you would like to contribute, please add a "Hello world" file in the language
 - Jacob Meline (@jmeline)
 - Bibek Khadka (@roringbbk)
 - Chashmeet Singh (@chashmeetsingh)
+- MOHD. REHAN(@rehan01997)
 - Nayan Gupta (@nayangupta824)
 - Michael Hoogkamer (@mhoogkamer)
 - Carlyn Marshall (@carmarshall)
