@@ -1,4 +1,4 @@
-def print_message(message):
+def display_text(message):
     print(message)
 
-print_message("Hello Hacktoberfest 2016!")
+display_text("Hello Hacktoberfest 2018!")
