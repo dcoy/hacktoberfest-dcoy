@@ -1,6 +1,5 @@
 #! python 
 # string variable 
 
-STRING = " Need to know more intensifies...... "
+print(f" Need to know more intensifies...... ")
 
-print STRING
