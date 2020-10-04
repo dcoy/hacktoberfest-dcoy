@@ -8,9 +8,10 @@ If you would like to contribute, please add a "Hello world" file in the language
 
 ### List of Contributors
 
+- Leonardo Zanotti(@LeonardoZanotti)
 - Tom Davis (@Kat35601)
 - I. Gracia (@igcigc)
--Prakash Ujjwal (@prakashujjwal1010)
+- Prakash Ujjwal (@prakashujjwal1010)
 - Geza Fischer (@gezafisch)
 - Justin Eldracher (@justineldracher)
 - David Coy (@obsidianspork)
