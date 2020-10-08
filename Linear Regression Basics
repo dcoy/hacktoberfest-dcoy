@@ -1,0 +1,52 @@
+# for this section Machine Learning algorithm we need a data file, i have used usa_housing it can be found on kaggle
+Let's get started!
+
+Check out the data
+We've been able to get some data from your neighbor for housing prices as a csv set, let's get our environment ready with the libraries we'll need and then import the data!
+
+Import Libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+%matplotlib inline
+#Check out the Data this will give us more idea about the data
+USAhousing = pd.read_csv('USA_Housing.csv')
+USAhousing.head()
+USAhousing.info()
+USAhousing.describe()
+#EDA
+#Let's create some simple plots to check out the data!
+sns.pairplot(USAhousing)#using seaborn to plot data
+sns.distplot(USAhousing['Price'])
+sns.heatmap(USAhousing.corr())
+#now linear regression part
+'''Training a Linear Regression Model
+Let's now begin to train out regression model! We will need to first split up our data into an X array that contains the features to train on, and a y array with the target variable, in this case the Price column. We will toss out the Address column because it only has text info that the linear regression model can't use.
+
+X and y arrays'''
+#training begins here
+X = USAhousing[['Avg. Area Income', 'Avg. Area House Age', 'Avg. Area Number of Rooms',
+               'Avg. Area Number of Bedrooms', 'Area Population']]
+y = USAhousing['Price']
+'''Train Test Split
+Now let's split the data into a training set and a testing set.
+We will train out model on the training set and then use the test set to evaluate the model.'''
+from sklearn.model_selection import train_test_split#scikit learn is used here
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=101) #data has been splited into train test models
+#Creating and Training the Model
+from sklearn.linear_model import LinearRegression
+lm = LinearRegression()
+lm.fit(X_train,y_train)
+'''Model Evaluation
+Let's evaluate the model by checking out it's coefficients and how we can interpret them.'''
+# print the intercept
+print(lm.intercept_)
+coeff_df = pd.DataFrame(lm.coef_,X.columns,columns=['Coefficient'])
+coeff_df
+Predictions from our Model
+#Let's grab predictions off our test set and see how well it did!
+predictions = lm.predict(X_test)
+plt.scatter(y_test,predictions)
+plt.scatter(y_test,predictions)
+#and this ends our linear regression model you will see that the data is lying between a line only
